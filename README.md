@@ -6,7 +6,7 @@ Instagram의 모바일 DM 기능을 **PC 환경에서 간편하고 심플하게 
 
 ## 📦 다운로드
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-v1.0-blue?logo=apple&style=for-the-badge)](https://github.com/J1XNK/Instagram-DM/releases/download/v1.0/InstagramDM-v1.0-mac.zip)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-v1.0-blue?logo=apple&style=for-the-badge)](https://github.com/J1XNK/Instagram-DM/releases)
 
 <br>
 
