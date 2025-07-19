@@ -2,16 +2,13 @@
 
 Instagram의 모바일 DM 기능을 **PC 환경에서 간편하고 심플하게 즐길 수 있도록 만든 앱**입니다. 브라우저 없이 빠르게 메시지를 확인하고, 대화에 집중할 수 있도록 최소한의 UI로 구성되어 있습니다.
 
-
+<br>
 
 ## 📦 다운로드
 
-### 🍎 For Mac  
-[Instagram DM App 1.0 (For Mac)](https://github.com/J1XNK/Instagram-DM/releases)  
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-v1.0-blue?logo=apple&style=for-the-badge)](https://github.com/J1XNK/Instagram-DM/releases/download/v1.0/InstagramDM-v1.0-mac.zip)
 
-### 🪟 For Windows  
-⚠️ *Windows용 Instagram DM은 아직 개발 중입니다.*
-
+<br>
 
 
 ## 💡 소개
@@ -27,7 +24,8 @@ Instagram의 모바일 DM 기능을 **PC 환경에서 간편하고 심플하게 
 
 - ✅ **로그인 연동 지원**  
   로그인 후 세션이 유지되며, 앱을 재시작해도 자동 로그인 가능
-  
+
+<br>
 
 ## 🖥 설치 방법 (Mac 기준)
 
@@ -37,13 +35,13 @@ Instagram의 모바일 DM 기능을 **PC 환경에서 간편하고 심플하게 
 
 ### 2. 보안 설정 허용
 최초 실행 시 `"Instagram DM을 열 수 없음"` 또는 `"확인되지 않은 개발자"` 경고가 나타날 수 있습니다.
+아래 경로를 따라 앱을 허용해 주세요:
 
-> 아래 경로를 따라 앱을 허용해 주세요:
-```시스템 설정 → 개인정보 보호 및 보안 → Instagram DM 열기 허용```
-> 
+> 시스템 설정 → 개인정보 보호 및 보안 → Instagram DM 열기 허용
+
 이 과정을 한 번만 거치면 이후부터는 정상적으로 앱이 실행됩니다.
 
-
+<br>
 
 ## 💬 피드백
 
