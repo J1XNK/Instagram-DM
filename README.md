@@ -2,17 +2,17 @@
 
 Instagram의 모바일 DM 기능을 **PC 환경에서 간편하고 심플하게 즐길 수 있도록 만든 앱**입니다. 브라우저 없이 빠르게 메시지를 확인하고, 대화에 집중할 수 있도록 최소한의 UI로 구성되어 있습니다.
 
----
+
 
 ## 📦 다운로드
 
 ### 🍎 For Mac  
-[Instagram DM App 1.0 (For Mac)](다운로드링크)  
+[Instagram DM App 1.0 (For Mac)](https://github.com/J1XNK/Instagram-DM/releases)  
 
 ### 🪟 For Windows  
 ⚠️ *Windows용 Instagram DM은 아직 개발 중입니다.*
 
----
+
 
 ## 💡 소개
 
@@ -27,29 +27,25 @@ Instagram의 모바일 DM 기능을 **PC 환경에서 간편하고 심플하게 
 
 - ✅ **로그인 연동 지원**  
   로그인 후 세션이 유지되며, 앱을 재시작해도 자동 로그인 가능
+  
 
----
+## 🖥 설치 방법 (Mac 기준)
 
-## ❓ FAQ
+### 1. 앱 설치
+- `.zip` 파일을 다운로드한 뒤 압축을 풀면 앱이 생성됩니다.
+- 해당 앱을 **`Applications` 폴더로 이동**하면 일반 앱처럼 사용 가능합니다.
 
-### ❗ Mac 버전에서 “Instagram DM을 열지 않음” 오류가 발생할 경우
-- Mac 보안 설정에 따라 앱이 차단될 수 있습니다.
-- 아래 경로를 따라 설정을 허용해주세요:  
-  `시스템 설정 → 개인정보 보호 및 보안 → Instagram DM 열기`
+### 2. 보안 설정 허용
+최초 실행 시 `"Instagram DM을 열 수 없음"` 또는 `"확인되지 않은 개발자"` 경고가 나타날 수 있습니다.
 
-### 📦 Mac 버전 앱처럼 설정하는 법
-- 앱 압축을 풀면 기본적으로 `다운로드` 폴더에 설치됩니다.  
-- 앱을 `Applications` 폴더로 옮기면 일반 앱처럼 실행 및 사용 가능합니다.
+> 아래 경로를 따라 앱을 허용해 주세요:
+```시스템 설정 → 개인정보 보호 및 보안 → Instagram DM 열기 허용```
+> 
+이 과정을 한 번만 거치면 이후부터는 정상적으로 앱이 실행됩니다.
 
----
 
-## 🛠 업데이트 내역
-
-- **v1.0**: 앱이 배포되었습니다.
-
----
 
 ## 💬 피드백
 
-- [📮 피드백 폼 바로가기](링크)
-- 📧 제작자 연락: jihandev@example.com
+- [📮 피드백 폼 바로가기](https://docs.google.com/forms/d/e/1FAIpQLSdv0tmYQNSR4tbLZvzmA1oSrrYZqxTfWa5oL0EDR2ZOsNCG1A/viewform?usp=send_form)
+- 📧 제작자 연락: jhcuber0429@gmail.com
