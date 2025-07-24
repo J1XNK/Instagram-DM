@@ -5,9 +5,10 @@ No browser needed — just fast access to your messages in a minimal UI.
 
 <br>
 
-## Language
+## 🌎 Language
  [`한국어`](README.md) | `English`
 
+<br>
 
 ## 📦 Download
 
