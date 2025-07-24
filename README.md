@@ -4,6 +4,11 @@ Instagram의 모바일 DM 기능을 **PC 환경에서 간편하고 심플하게 
 
 <br>
 
+## 🌎 언어 / Language
+`한국어` | [`English`](README.en.md)
+
+<br> 
+
 ## 📦 다운로드
 
 [![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-v1.0-blue?logo=apple&style=for-the-badge)](https://github.com/J1XNK/Instagram-DM/releases)
